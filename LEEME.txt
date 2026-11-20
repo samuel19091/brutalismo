@@ -1,0 +1,28 @@
+ALMUERZO BRUTALISTA — presentación + pieza AR (lista para GitHub Pages)
+
+QUÉ HAY
+  index.html          tu presentación; el punto 19 abre la cámara o el modo sin tarjeta
+  escena.json         escena de Three.js: tarjeta, video de fondo, calca de obreros, cable y título
+  targets.mind        marcador ya compilado a partir de marcador.jpg (no hay que hacer nada)
+  marcador.jpg        la imagen que se escanea: la ciudad de 1932 sin obreros
+  assets/fondo.mp4    tu transición de Firefly (sin audio, se reproduce una vez y se queda en el cuadro final)
+  assets/cielo-brutalista.jpg  completa la parte de arriba de la tarjeta (la que no sale en el video)
+
+ORDEN
+  1. Se detecta la foto: arranca la música y el video transforma la ciudad (la parte de arriba cambia con él)
+  2. Cuando termina el video: llega la calca de los obreros, luego el cable y al final el título
+  (en escena.json, "trasVideo": true hace que una capa espere al final del video; "retraso" son los segundos después)
+  sonidos/musica.mp3  la canción de fondo (en loop mientras se ve la foto)
+  sonidos/golpe.wav   golpe metálico cuando llega cada capa o la tocas
+
+SUBIR A GITHUB PAGES
+  1. Crea un repositorio público en github.com (por ejemplo "almuerzo-brutalista").
+  2. "Add file > Upload files": arrastra TODO el contenido de esta carpeta (no la carpeta) y dale "Commit changes".
+  3. Settings > Pages > Source: "Deploy from a branch", Branch: main, carpeta / (root) > Save.
+  4. En 1–2 minutos queda en https://TU-USUARIO.github.io/almuerzo-brutalista/
+  5. Ábrelo en el celular, ve al punto 19, "Escanear la fotografía" y apunta a marcador.jpg (impresa o en otra pantalla).
+
+SI CAMBIAS ALGO
+  Si cambias marcador.jpg tienes que volver a compilar targets.mind
+  (https://hiukim.github.io/mind-ar-js-doc/tools/compile) y el video tendría que coincidir con la nueva imagen.
+  En escena.json: "matrix" (números 13, 14, 15 = x, y, z), "retraso" (segundos para aparecer), "sonido".
