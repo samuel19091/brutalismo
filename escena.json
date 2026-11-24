@@ -1,0 +1,3009 @@
+{
+ "metadata": {
+  "version": 4.6,
+  "type": "Object",
+  "generator": "Object3D.toJSON"
+ },
+ "geometries": [
+  {
+   "uuid": "28E82F92-D218-444D-84DB-9099FE470255",
+   "type": "PlaneGeometry",
+   "width": 1,
+   "height": 0.805625,
+   "widthSegments": 1,
+   "heightSegments": 1
+  },
+  {
+   "uuid": "1A758789-16D6-427C-BC2D-F66959A2E369",
+   "type": "PlaneGeometry",
+   "width": 1,
+   "height": 0.5625,
+   "widthSegments": 1,
+   "heightSegments": 1
+  },
+  {
+   "uuid": "63D8B42B-6EF2-4634-B9B0-206C69593BD5",
+   "type": "PlaneGeometry",
+   "width": 1,
+   "height": 0.24305555555555555,
+   "widthSegments": 1,
+   "heightSegments": 1
+  },
+  {
+   "uuid": "70787D40-8E4F-4B9C-9D5D-B58628AC4FC4",
+   "type": "PlaneGeometry",
+   "width": 1.15,
+   "height": 0.647,
+   "widthSegments": 1,
+   "heightSegments": 1
+  },
+  {
+   "uuid": "1C0CA610-233B-42A6-9A08-FDCF9E39F56F",
+   "type": "PlaneGeometry",
+   "width": 1.45,
+   "height": 0.816,
+   "widthSegments": 1,
+   "heightSegments": 1
+  },
+  {
+   "uuid": "E436A522-33AC-4780-AD46-47F1F95D77A8",
+   "type": "PlaneGeometry",
+   "width": 0.4,
+   "height": 0.225,
+   "widthSegments": 1,
+   "heightSegments": 1
+  },
+  {
+   "uuid": "B8D72FA6-13FB-4540-984C-5134147AA6B4",
+   "type": "PlaneGeometry",
+   "width": 1,
+   "height": 0.8,
+   "widthSegments": 48,
+   "heightSegments": 40
+  },
+  {
+   "uuid": "069A79BD-2376-4055-AEF4-706F017C5111",
+   "type": "PlaneGeometry",
+   "width": 0.14,
+   "height": 0.04,
+   "widthSegments": 1,
+   "heightSegments": 1
+  },
+  {
+   "uuid": "F8D31DCE-5C35-42B5-A6D8-84BB88622BF0",
+   "type": "PlaneGeometry",
+   "width": 0.12,
+   "height": 0.035,
+   "widthSegments": 1,
+   "heightSegments": 1
+  },
+  {
+   "uuid": "B038B167-46A6-467B-95B9-F0C4CDBE10E6",
+   "type": "PlaneGeometry",
+   "width": 0.12,
+   "height": 0.035,
+   "widthSegments": 1,
+   "heightSegments": 1
+  },
+  {
+   "uuid": "12293EBF-B68B-4810-B970-2A168FE17F79",
+   "type": "PlaneGeometry",
+   "width": 1,
+   "height": 0.8,
+   "widthSegments": 1,
+   "heightSegments": 1
+  },
+  {
+   "uuid": "DC28EA86-0DBE-4E34-B0D2-68ADF61132CD",
+   "type": "PlaneGeometry",
+   "width": 0.15,
+   "height": 0.14185303514376996,
+   "widthSegments": 1,
+   "heightSegments": 1
+  },
+  {
+   "uuid": "D54B67C6-80E5-4FD7-90B2-B4BD97CE82B5",
+   "type": "PlaneGeometry",
+   "width": 0.2,
+   "height": 0.11116279069767443,
+   "widthSegments": 1,
+   "heightSegments": 1
+  },
+  {
+   "uuid": "1F27AFE7-0D6A-40D1-8A4F-31D4C7560058",
+   "type": "PlaneGeometry",
+   "width": 0.13,
+   "height": 0.12538709677419357,
+   "widthSegments": 1,
+   "heightSegments": 1
+  },
+  {
+   "uuid": "C774C9D5-1A8D-4876-862B-BD2E5FD1F0F0",
+   "type": "PlaneGeometry",
+   "width": 0.12,
+   "height": 0.11930029154518951,
+   "widthSegments": 1,
+   "heightSegments": 1
+  },
+  {
+   "uuid": "DB4309E4-3474-424C-8668-BF4B512578F2",
+   "type": "PlaneGeometry",
+   "width": 0.11,
+   "height": 0.11,
+   "widthSegments": 1,
+   "heightSegments": 1
+  },
+  {
+   "uuid": "789CBBDE-FE36-4365-9662-216251124BBC",
+   "type": "PlaneGeometry",
+   "width": 0.11,
+   "height": 0.11,
+   "widthSegments": 1,
+   "heightSegments": 1
+  },
+  {
+   "uuid": "88E1E97F-C89C-4E1D-95BF-5AEBAE1641EE",
+   "type": "PlaneGeometry",
+   "width": 0.095,
+   "height": 0.095,
+   "widthSegments": 1,
+   "heightSegments": 1
+  },
+  {
+   "uuid": "2BC7336B-B411-491F-B815-F35EC6681722",
+   "type": "PlaneGeometry",
+   "width": 0.06,
+   "height": 0.06,
+   "widthSegments": 1,
+   "heightSegments": 1
+  },
+  {
+   "uuid": "586777D4-40D8-450E-83B0-3856DBB4B434",
+   "type": "PlaneGeometry",
+   "width": 0.055,
+   "height": 0.055,
+   "widthSegments": 1,
+   "heightSegments": 1
+  },
+  {
+   "uuid": "34750798-EA74-45E0-8902-62918DB1157C",
+   "type": "PlaneGeometry",
+   "width": 0.065,
+   "height": 0.065,
+   "widthSegments": 1,
+   "heightSegments": 1
+  },
+  {
+   "uuid": "A7712271-5AA7-4CC6-868A-9FA44EB7E660",
+   "type": "PlaneGeometry",
+   "width": 0.05,
+   "height": 0.05,
+   "widthSegments": 1,
+   "heightSegments": 1
+  },
+  {
+   "uuid": "D6711682-3BA0-4C5C-B719-CA0AB1740C87",
+   "type": "PlaneGeometry",
+   "width": 0.055,
+   "height": 0.055,
+   "widthSegments": 1,
+   "heightSegments": 1
+  },
+  {
+   "uuid": "57F3A2CD-CC9E-4516-9081-8D9083754547",
+   "type": "PlaneGeometry",
+   "width": 0.06,
+   "height": 0.06,
+   "widthSegments": 1,
+   "heightSegments": 1
+  },
+  {
+   "uuid": "F5FB4D24-9F61-4C8E-9AC2-AE621375A321",
+   "type": "PlaneGeometry",
+   "width": 0.05,
+   "height": 0.05,
+   "widthSegments": 1,
+   "heightSegments": 1
+  },
+  {
+   "uuid": "09012377-028F-4A34-847D-3CD08EEB50BE",
+   "type": "PlaneGeometry",
+   "width": 0.55,
+   "height": 0.115,
+   "widthSegments": 1,
+   "heightSegments": 1
+  }
+ ],
+ "materials": [
+  {
+   "uuid": "11F51636-DDB0-4B32-879A-52095DD6A179",
+   "type": "MeshBasicMaterial",
+   "color": 16777215,
+   "map": "75D18E77-071E-4580-BE6B-7BD7B8569DDC",
+   "transparent": true,
+   "opacity": 1,
+   "depthWrite": false,
+   "side": 2
+  },
+  {
+   "uuid": "80C7B9D8-531F-4C7E-85DA-50747D1A72A5",
+   "type": "MeshBasicMaterial",
+   "color": 16777215,
+   "map": "60519D4B-40CD-4C58-B123-89C268ACDDE5",
+   "transparent": true,
+   "opacity": 1,
+   "depthWrite": false,
+   "side": 2
+  },
+  {
+   "uuid": "484AF339-5268-48DE-AB0E-2A2D27932FDF",
+   "type": "MeshBasicMaterial",
+   "color": 16777215,
+   "map": "897686F9-8756-482E-8CD7-24EA77FAA01A",
+   "transparent": true,
+   "opacity": 0,
+   "depthWrite": false,
+   "side": 2
+  },
+  {
+   "uuid": "FD771B70-13B9-4393-8781-C335C89EAEBE",
+   "type": "MeshBasicMaterial",
+   "color": 15134694,
+   "map": "54103A72-4E28-49D8-A00E-016C6E22D0CC",
+   "transparent": true,
+   "opacity": 1,
+   "depthWrite": false,
+   "side": 2
+  },
+  {
+   "uuid": "CE1A366D-595F-4A76-BF4E-28399A8ABC7D",
+   "type": "MeshBasicMaterial",
+   "color": 15134694,
+   "map": "54103A72-4E28-49D8-A00E-016C6E22D0CC",
+   "transparent": true,
+   "opacity": 1,
+   "depthWrite": false,
+   "side": 2
+  },
+  {
+   "uuid": "36CA3953-29B7-41B0-8CFA-6C07BB680826",
+   "type": "MeshBasicMaterial",
+   "color": 16777215,
+   "map": "54103A72-4E28-49D8-A00E-016C6E22D0CC",
+   "transparent": true,
+   "opacity": 1,
+   "depthWrite": false,
+   "side": 2
+  },
+  {
+   "uuid": "00E6EC8C-3255-4845-8EBF-0E4D5A308580",
+   "type": "MeshBasicMaterial",
+   "color": 16777215,
+   "map": "96DBA86E-1E54-4C15-BE96-99A5CA39FE4F",
+   "transparent": true,
+   "opacity": 1,
+   "depthWrite": false,
+   "side": 2
+  },
+  {
+   "uuid": "C8D273A6-C91D-46DF-9AF9-CCE2CE21E149",
+   "type": "MeshBasicMaterial",
+   "color": 16777215,
+   "map": "991D20A7-7092-492C-9C24-38B82989250E",
+   "transparent": true,
+   "opacity": 1,
+   "depthWrite": false,
+   "side": 2
+  },
+  {
+   "uuid": "44010847-F9E4-4A9C-847A-9E278CBC2F77",
+   "type": "MeshBasicMaterial",
+   "color": 16777215,
+   "map": "96DBA86E-1E54-4C15-BE96-99A5CA39FE4F",
+   "transparent": true,
+   "opacity": 1,
+   "depthWrite": false,
+   "side": 2
+  },
+  {
+   "uuid": "92FB4323-3707-436A-878C-27F8977A255C",
+   "type": "MeshBasicMaterial",
+   "color": 16777215,
+   "map": "FC9D1807-9F43-4583-AB2D-4280043A221D",
+   "transparent": true,
+   "opacity": 1,
+   "depthWrite": false,
+   "side": 0
+  },
+  {
+   "uuid": "3D669042-49D9-4C9D-AB8C-6EABC4BCCB0A",
+   "type": "MeshBasicMaterial",
+   "color": 14538440,
+   "map": "DAB07705-833F-4AE4-B796-4827D0230B15",
+   "transparent": true,
+   "opacity": 1,
+   "depthWrite": false,
+   "side": 1,
+   "alphaMap": "5936013A-C7AA-4B61-89BF-8D53161F4770",
+   "alphaTest": 0.5
+  },
+  {
+   "uuid": "BAF53FEA-0D04-4FA3-A105-D6DE6CB7444A",
+   "type": "MeshBasicMaterial",
+   "color": 16777215,
+   "map": "65655604-CB46-4211-927C-1289BA35F694",
+   "transparent": true,
+   "opacity": 1,
+   "depthWrite": false,
+   "side": 2
+  },
+  {
+   "uuid": "FB5CCBDA-9DD0-4A29-900D-6DB753911180",
+   "type": "MeshBasicMaterial",
+   "color": 16777215,
+   "map": "5F39DB35-1CA4-481D-AAA9-6FCE1B5D884B",
+   "transparent": true,
+   "opacity": 1,
+   "depthWrite": false,
+   "side": 0
+  },
+  {
+   "uuid": "BF96E8C7-5B91-4F9E-A8D5-6C2CF9B1D278",
+   "type": "MeshBasicMaterial",
+   "color": 14538440,
+   "map": "DAB07705-833F-4AE4-B796-4827D0230B15",
+   "transparent": true,
+   "opacity": 1,
+   "depthWrite": false,
+   "side": 1,
+   "alphaMap": "15D2ED72-E30B-44CF-BD12-73CCDE28B63E",
+   "alphaTest": 0.5
+  },
+  {
+   "uuid": "90BDD53C-5699-47E0-A708-FE5ADD41F87A",
+   "type": "MeshBasicMaterial",
+   "color": 16777215,
+   "map": "F7934468-592F-48B1-B85C-0C7FAFDDCC8B",
+   "transparent": true,
+   "opacity": 1,
+   "depthWrite": false,
+   "side": 0
+  },
+  {
+   "uuid": "00A9A1A8-104F-4693-9DDD-DE82B40F91EE",
+   "type": "MeshBasicMaterial",
+   "color": 14538440,
+   "map": "DAB07705-833F-4AE4-B796-4827D0230B15",
+   "transparent": true,
+   "opacity": 1,
+   "depthWrite": false,
+   "side": 1,
+   "alphaMap": "C99FCAD5-148A-41AD-98F9-F492014EA3C3",
+   "alphaTest": 0.5
+  },
+  {
+   "uuid": "2CFD28C4-16CB-4623-B35E-F2CD0D4EB388",
+   "type": "MeshBasicMaterial",
+   "color": 16777215,
+   "map": "5EAAC2AF-4710-4389-ACB0-12543E85728E",
+   "transparent": true,
+   "opacity": 1,
+   "depthWrite": false,
+   "side": 0
+  },
+  {
+   "uuid": "A318C868-5187-4EC5-9DD7-180AD6215595",
+   "type": "MeshBasicMaterial",
+   "color": 14538440,
+   "map": "DAB07705-833F-4AE4-B796-4827D0230B15",
+   "transparent": true,
+   "opacity": 1,
+   "depthWrite": false,
+   "side": 1,
+   "alphaMap": "F1F309FB-A76A-4CBA-8172-944F7599988D",
+   "alphaTest": 0.5
+  },
+  {
+   "uuid": "DB53376D-9DA2-42F2-B4EA-BF319C60B753",
+   "type": "MeshBasicMaterial",
+   "color": 16777215,
+   "map": "67C22A6A-32AD-4472-A8FF-61979899A7E3",
+   "transparent": true,
+   "opacity": 1,
+   "depthWrite": false,
+   "side": 0
+  },
+  {
+   "uuid": "950E5595-F38A-48C1-AE2C-2B34F51AA479",
+   "type": "MeshBasicMaterial",
+   "color": 14538440,
+   "map": "DAB07705-833F-4AE4-B796-4827D0230B15",
+   "transparent": true,
+   "opacity": 1,
+   "depthWrite": false,
+   "side": 1,
+   "alphaMap": "BF26348E-A78A-42B5-977D-1D1115406B16",
+   "alphaTest": 0.5
+  },
+  {
+   "uuid": "2B34FCA4-057E-4DAF-8539-C2144DBB41EE",
+   "type": "MeshBasicMaterial",
+   "color": 16777215,
+   "map": "CB6F9C71-CDB3-4EA9-B62C-DAC328EC756A",
+   "transparent": true,
+   "opacity": 1,
+   "depthWrite": false,
+   "side": 0
+  },
+  {
+   "uuid": "978B8E07-3BB8-49A1-A243-09913F1D65CC",
+   "type": "MeshBasicMaterial",
+   "color": 14538440,
+   "map": "DAB07705-833F-4AE4-B796-4827D0230B15",
+   "transparent": true,
+   "opacity": 1,
+   "depthWrite": false,
+   "side": 1,
+   "alphaMap": "366EB268-EE41-4ED5-A0E1-8BC7DF30E191",
+   "alphaTest": 0.5
+  },
+  {
+   "uuid": "697DBEC3-7473-478F-892F-70AC614E6192",
+   "type": "MeshBasicMaterial",
+   "color": 16777215,
+   "map": "50292DD5-9E62-42FF-BE67-D015D46EA933",
+   "transparent": true,
+   "opacity": 1,
+   "depthWrite": false,
+   "side": 0
+  },
+  {
+   "uuid": "2156F98D-3740-4EB5-AA3C-CE880AC6C6B8",
+   "type": "MeshBasicMaterial",
+   "color": 14538440,
+   "map": "DAB07705-833F-4AE4-B796-4827D0230B15",
+   "transparent": true,
+   "opacity": 1,
+   "depthWrite": false,
+   "side": 1,
+   "alphaMap": "00055A83-F303-4856-B262-2B5B90219847",
+   "alphaTest": 0.5
+  },
+  {
+   "uuid": "159C171D-77BE-4CB4-B51C-07C6B575E923",
+   "type": "MeshBasicMaterial",
+   "color": 16777215,
+   "map": "80245366-CD1A-4F70-ADE9-EBC19514795C",
+   "transparent": true,
+   "opacity": 1,
+   "depthWrite": false,
+   "side": 0
+  },
+  {
+   "uuid": "6EBBF934-213E-4D9C-A9EE-CA50D0160176",
+   "type": "MeshBasicMaterial",
+   "color": 14538440,
+   "map": "DAB07705-833F-4AE4-B796-4827D0230B15",
+   "transparent": true,
+   "opacity": 1,
+   "depthWrite": false,
+   "side": 1,
+   "alphaMap": "FAEF2D59-FBDC-4A86-BB25-3DA2219012FE",
+   "alphaTest": 0.5
+  },
+  {
+   "uuid": "4FADF755-809D-46B5-A6D1-FAEAB52B24C2",
+   "type": "MeshBasicMaterial",
+   "color": 16777215,
+   "map": "D0F442AC-2AE3-40DC-979B-EDEA34B0F10A",
+   "transparent": true,
+   "opacity": 1,
+   "depthWrite": false,
+   "side": 2
+  },
+  {
+   "uuid": "B49C2B98-E961-4348-8C0D-7583BFCFD5F4",
+   "type": "MeshBasicMaterial",
+   "color": 16777215,
+   "map": "BC12E4F4-7947-4C47-8106-145B4621632D",
+   "transparent": true,
+   "opacity": 1,
+   "depthWrite": false,
+   "side": 2
+  },
+  {
+   "uuid": "C9145383-C185-4E9A-8113-EFFC3BFD778A",
+   "type": "MeshBasicMaterial",
+   "color": 16777215,
+   "map": "D0F442AC-2AE3-40DC-979B-EDEA34B0F10A",
+   "transparent": true,
+   "opacity": 1,
+   "depthWrite": false,
+   "side": 2
+  },
+  {
+   "uuid": "091B9F16-985F-44FA-A060-21C57AEA9092",
+   "type": "MeshBasicMaterial",
+   "color": 16777215,
+   "map": "BC12E4F4-7947-4C47-8106-145B4621632D",
+   "transparent": true,
+   "opacity": 1,
+   "depthWrite": false,
+   "side": 2
+  },
+  {
+   "uuid": "28B3393D-D256-452B-A129-46654B7C2FEA",
+   "type": "MeshBasicMaterial",
+   "color": 16777215,
+   "map": "D0F442AC-2AE3-40DC-979B-EDEA34B0F10A",
+   "transparent": true,
+   "opacity": 1,
+   "depthWrite": false,
+   "side": 2
+  },
+  {
+   "uuid": "CD899D46-CB5B-4380-8274-6C68B9B15E11",
+   "type": "MeshBasicMaterial",
+   "color": 16777215,
+   "map": "BC12E4F4-7947-4C47-8106-145B4621632D",
+   "transparent": true,
+   "opacity": 1,
+   "depthWrite": false,
+   "side": 2
+  },
+  {
+   "uuid": "1B6DCAD8-6DFB-473E-BE12-936D756C281F",
+   "type": "MeshBasicMaterial",
+   "color": 16777215,
+   "map": "D0F442AC-2AE3-40DC-979B-EDEA34B0F10A",
+   "transparent": true,
+   "opacity": 1,
+   "depthWrite": false,
+   "side": 2
+  },
+  {
+   "uuid": "3514A07A-E4ED-4E70-9294-6F953AD85355",
+   "type": "MeshBasicMaterial",
+   "color": 16777215,
+   "map": "E60743D6-3B45-4AD5-B6B2-EAC3F2ECE740",
+   "transparent": true,
+   "opacity": 1,
+   "depthWrite": false,
+   "side": 2
+  }
+ ],
+ "textures": [
+  {
+   "uuid": "75D18E77-071E-4580-BE6B-7BD7B8569DDC",
+   "name": "marcador.jpg",
+   "image": "3D09CCFF-B88E-4FF0-841C-8BB21FBA9663",
+   "mapping": 300,
+   "channel": 0,
+   "repeat": [
+    1,
+    1
+   ],
+   "offset": [
+    0,
+    0
+   ],
+   "center": [
+    0,
+    0
+   ],
+   "rotation": 0,
+   "wrap": [
+    1001,
+    1001
+   ],
+   "format": 1023,
+   "internalFormat": null,
+   "type": 1009,
+   "colorSpace": "srgb",
+   "minFilter": 1008,
+   "magFilter": 1006,
+   "anisotropy": 1,
+   "flipY": true,
+   "generateMipmaps": true,
+   "premultiplyAlpha": false,
+   "unpackAlignment": 4
+  },
+  {
+   "uuid": "60519D4B-40CD-4C58-B123-89C268ACDDE5",
+   "name": "fondo-inicio.jpg",
+   "image": "05BBBCC5-DFE4-4A41-B2DF-E5309EBB3C03",
+   "mapping": 300,
+   "channel": 0,
+   "repeat": [
+    1,
+    1
+   ],
+   "offset": [
+    0,
+    0
+   ],
+   "center": [
+    0,
+    0
+   ],
+   "rotation": 0,
+   "wrap": [
+    1001,
+    1001
+   ],
+   "format": 1023,
+   "internalFormat": null,
+   "type": 1009,
+   "colorSpace": "srgb",
+   "minFilter": 1008,
+   "magFilter": 1006,
+   "anisotropy": 1,
+   "flipY": true,
+   "generateMipmaps": true,
+   "premultiplyAlpha": false,
+   "unpackAlignment": 4
+  },
+  {
+   "uuid": "897686F9-8756-482E-8CD7-24EA77FAA01A",
+   "name": "cielo-brutalista.jpg",
+   "image": "E6A96135-7895-4D95-ACB6-798FAAEE2468",
+   "mapping": 300,
+   "channel": 0,
+   "repeat": [
+    1,
+    1
+   ],
+   "offset": [
+    0,
+    0
+   ],
+   "center": [
+    0,
+    0
+   ],
+   "rotation": 0,
+   "wrap": [
+    1001,
+    1001
+   ],
+   "format": 1023,
+   "internalFormat": null,
+   "type": 1009,
+   "colorSpace": "srgb",
+   "minFilter": 1008,
+   "magFilter": 1006,
+   "anisotropy": 1,
+   "flipY": true,
+   "generateMipmaps": true,
+   "premultiplyAlpha": false,
+   "unpackAlignment": 4
+  },
+  {
+   "uuid": "54103A72-4E28-49D8-A00E-016C6E22D0CC",
+   "name": "vacio.png",
+   "image": "4706B315-AEB1-4042-8524-38066D0FFD8C",
+   "mapping": 300,
+   "channel": 0,
+   "repeat": [
+    1,
+    1
+   ],
+   "offset": [
+    0,
+    0
+   ],
+   "center": [
+    0,
+    0
+   ],
+   "rotation": 0,
+   "wrap": [
+    1001,
+    1001
+   ],
+   "format": 1023,
+   "internalFormat": null,
+   "type": 1009,
+   "colorSpace": "srgb",
+   "minFilter": 1008,
+   "magFilter": 1006,
+   "anisotropy": 1,
+   "flipY": true,
+   "generateMipmaps": true,
+   "premultiplyAlpha": false,
+   "unpackAlignment": 4
+  },
+  {
+   "uuid": "96DBA86E-1E54-4C15-BE96-99A5CA39FE4F",
+   "name": "cinta1.png",
+   "image": "520AD65B-9C8A-403B-99D2-E2F58C864BFA",
+   "mapping": 300,
+   "channel": 0,
+   "repeat": [
+    1,
+    1
+   ],
+   "offset": [
+    0,
+    0
+   ],
+   "center": [
+    0,
+    0
+   ],
+   "rotation": 0,
+   "wrap": [
+    1001,
+    1001
+   ],
+   "format": 1023,
+   "internalFormat": null,
+   "type": 1009,
+   "colorSpace": "srgb",
+   "minFilter": 1008,
+   "magFilter": 1006,
+   "anisotropy": 1,
+   "flipY": true,
+   "generateMipmaps": true,
+   "premultiplyAlpha": false,
+   "unpackAlignment": 4
+  },
+  {
+   "uuid": "991D20A7-7092-492C-9C24-38B82989250E",
+   "name": "cinta2.png",
+   "image": "D19E2AC5-01F1-4678-B9E8-A6458092FBB9",
+   "mapping": 300,
+   "channel": 0,
+   "repeat": [
+    1,
+    1
+   ],
+   "offset": [
+    0,
+    0
+   ],
+   "center": [
+    0,
+    0
+   ],
+   "rotation": 0,
+   "wrap": [
+    1001,
+    1001
+   ],
+   "format": 1023,
+   "internalFormat": null,
+   "type": 1009,
+   "colorSpace": "srgb",
+   "minFilter": 1008,
+   "magFilter": 1006,
+   "anisotropy": 1,
+   "flipY": true,
+   "generateMipmaps": true,
+   "premultiplyAlpha": false,
+   "unpackAlignment": 4
+  },
+  {
+   "uuid": "FC9D1807-9F43-4583-AB2D-4280043A221D",
+   "name": "obreros.png",
+   "image": "E2E356DE-8773-4EDB-8E77-E570F4F94751",
+   "mapping": 300,
+   "channel": 0,
+   "repeat": [
+    1,
+    1
+   ],
+   "offset": [
+    0,
+    0
+   ],
+   "center": [
+    0,
+    0
+   ],
+   "rotation": 0,
+   "wrap": [
+    1001,
+    1001
+   ],
+   "format": 1023,
+   "internalFormat": null,
+   "type": 1009,
+   "colorSpace": "srgb",
+   "minFilter": 1008,
+   "magFilter": 1006,
+   "anisotropy": 1,
+   "flipY": true,
+   "generateMipmaps": true,
+   "premultiplyAlpha": false,
+   "unpackAlignment": 4
+  },
+  {
+   "uuid": "DAB07705-833F-4AE4-B796-4827D0230B15",
+   "name": "papel.jpg",
+   "image": "D090B13C-25E7-4F6B-87F3-45FEB83D44BF",
+   "mapping": 300,
+   "channel": 0,
+   "repeat": [
+    1,
+    1
+   ],
+   "offset": [
+    0,
+    0
+   ],
+   "center": [
+    0,
+    0
+   ],
+   "rotation": 0,
+   "wrap": [
+    1001,
+    1001
+   ],
+   "format": 1023,
+   "internalFormat": null,
+   "type": 1009,
+   "colorSpace": "srgb",
+   "minFilter": 1008,
+   "magFilter": 1006,
+   "anisotropy": 1,
+   "flipY": true,
+   "generateMipmaps": true,
+   "premultiplyAlpha": false,
+   "unpackAlignment": 4
+  },
+  {
+   "uuid": "5936013A-C7AA-4B61-89BF-8D53161F4770",
+   "name": "obreros-mascara.png",
+   "image": "C953ECCA-8BF4-4A4D-B1B6-2859D8325F14",
+   "mapping": 300,
+   "channel": 0,
+   "repeat": [
+    1,
+    1
+   ],
+   "offset": [
+    0,
+    0
+   ],
+   "center": [
+    0,
+    0
+   ],
+   "rotation": 0,
+   "wrap": [
+    1001,
+    1001
+   ],
+   "format": 1023,
+   "internalFormat": null,
+   "type": 1009,
+   "colorSpace": "srgb",
+   "minFilter": 1008,
+   "magFilter": 1006,
+   "anisotropy": 1,
+   "flipY": true,
+   "generateMipmaps": true,
+   "premultiplyAlpha": false,
+   "unpackAlignment": 4
+  },
+  {
+   "uuid": "65655604-CB46-4211-927C-1289BA35F694",
+   "name": "cable.png",
+   "image": "00E5EFE7-2383-4D23-902B-1554717329EB",
+   "mapping": 300,
+   "channel": 0,
+   "repeat": [
+    1,
+    1
+   ],
+   "offset": [
+    0,
+    0
+   ],
+   "center": [
+    0,
+    0
+   ],
+   "rotation": 0,
+   "wrap": [
+    1001,
+    1001
+   ],
+   "format": 1023,
+   "internalFormat": null,
+   "type": 1009,
+   "colorSpace": "srgb",
+   "minFilter": 1008,
+   "magFilter": 1006,
+   "anisotropy": 1,
+   "flipY": true,
+   "generateMipmaps": true,
+   "premultiplyAlpha": false,
+   "unpackAlignment": 4
+  },
+  {
+   "uuid": "5F39DB35-1CA4-481D-AAA9-6FCE1B5D884B",
+   "name": "calca-lookup.png",
+   "image": "A217D38F-C42C-47F8-BD46-5D87F0B910CB",
+   "mapping": 300,
+   "channel": 0,
+   "repeat": [
+    1,
+    1
+   ],
+   "offset": [
+    0,
+    0
+   ],
+   "center": [
+    0,
+    0
+   ],
+   "rotation": 0,
+   "wrap": [
+    1001,
+    1001
+   ],
+   "format": 1023,
+   "internalFormat": null,
+   "type": 1009,
+   "colorSpace": "srgb",
+   "minFilter": 1008,
+   "magFilter": 1006,
+   "anisotropy": 1,
+   "flipY": true,
+   "generateMipmaps": true,
+   "premultiplyAlpha": false,
+   "unpackAlignment": 4
+  },
+  {
+   "uuid": "15D2ED72-E30B-44CF-BD12-73CCDE28B63E",
+   "name": "calca-lookup-mascara.png",
+   "image": "309BA068-EF04-45F7-A484-BAB88F40DF4B",
+   "mapping": 300,
+   "channel": 0,
+   "repeat": [
+    1,
+    1
+   ],
+   "offset": [
+    0,
+    0
+   ],
+   "center": [
+    0,
+    0
+   ],
+   "rotation": 0,
+   "wrap": [
+    1001,
+    1001
+   ],
+   "format": 1023,
+   "internalFormat": null,
+   "type": 1009,
+   "colorSpace": "srgb",
+   "minFilter": 1008,
+   "magFilter": 1006,
+   "anisotropy": 1,
+   "flipY": true,
+   "generateMipmaps": true,
+   "premultiplyAlpha": false,
+   "unpackAlignment": 4
+  },
+  {
+   "uuid": "F7934468-592F-48B1-B85C-0C7FAFDDCC8B",
+   "name": "calca-mileshigh.png",
+   "image": "F9922028-C31C-4015-9FFA-B562B4CA875B",
+   "mapping": 300,
+   "channel": 0,
+   "repeat": [
+    1,
+    1
+   ],
+   "offset": [
+    0,
+    0
+   ],
+   "center": [
+    0,
+    0
+   ],
+   "rotation": 0,
+   "wrap": [
+    1001,
+    1001
+   ],
+   "format": 1023,
+   "internalFormat": null,
+   "type": 1009,
+   "colorSpace": "srgb",
+   "minFilter": 1008,
+   "magFilter": 1006,
+   "anisotropy": 1,
+   "flipY": true,
+   "generateMipmaps": true,
+   "premultiplyAlpha": false,
+   "unpackAlignment": 4
+  },
+  {
+   "uuid": "C99FCAD5-148A-41AD-98F9-F492014EA3C3",
+   "name": "calca-mileshigh-mascara.png",
+   "image": "ECFC8E5A-0D0F-4846-BED3-34DC4374397C",
+   "mapping": 300,
+   "channel": 0,
+   "repeat": [
+    1,
+    1
+   ],
+   "offset": [
+    0,
+    0
+   ],
+   "center": [
+    0,
+    0
+   ],
+   "rotation": 0,
+   "wrap": [
+    1001,
+    1001
+   ],
+   "format": 1023,
+   "internalFormat": null,
+   "type": 1009,
+   "colorSpace": "srgb",
+   "minFilter": 1008,
+   "magFilter": 1006,
+   "anisotropy": 1,
+   "flipY": true,
+   "generateMipmaps": true,
+   "premultiplyAlpha": false,
+   "unpackAlignment": 4
+  },
+  {
+   "uuid": "5EAAC2AF-4710-4389-ACB0-12543E85728E",
+   "name": "calca-iny.png",
+   "image": "71FFC6B1-3EFE-4631-83F5-6F07DC5EA647",
+   "mapping": 300,
+   "channel": 0,
+   "repeat": [
+    1,
+    1
+   ],
+   "offset": [
+    0,
+    0
+   ],
+   "center": [
+    0,
+    0
+   ],
+   "rotation": 0,
+   "wrap": [
+    1001,
+    1001
+   ],
+   "format": 1023,
+   "internalFormat": null,
+   "type": 1009,
+   "colorSpace": "srgb",
+   "minFilter": 1008,
+   "magFilter": 1006,
+   "anisotropy": 1,
+   "flipY": true,
+   "generateMipmaps": true,
+   "premultiplyAlpha": false,
+   "unpackAlignment": 4
+  },
+  {
+   "uuid": "F1F309FB-A76A-4CBA-8172-944F7599988D",
+   "name": "calca-iny-mascara.png",
+   "image": "484752C8-F65E-4EFE-AE65-013593D8C223",
+   "mapping": 300,
+   "channel": 0,
+   "repeat": [
+    1,
+    1
+   ],
+   "offset": [
+    0,
+    0
+   ],
+   "center": [
+    0,
+    0
+   ],
+   "rotation": 0,
+   "wrap": [
+    1001,
+    1001
+   ],
+   "format": 1023,
+   "internalFormat": null,
+   "type": 1009,
+   "colorSpace": "srgb",
+   "minFilter": 1008,
+   "magFilter": 1006,
+   "anisotropy": 1,
+   "flipY": true,
+   "generateMipmaps": true,
+   "premultiplyAlpha": false,
+   "unpackAlignment": 4
+  },
+  {
+   "uuid": "67C22A6A-32AD-4472-A8FF-61979899A7E3",
+   "name": "calca-coldblood.png",
+   "image": "FCD9773A-BAC7-498D-B141-5E6532497D1A",
+   "mapping": 300,
+   "channel": 0,
+   "repeat": [
+    1,
+    1
+   ],
+   "offset": [
+    0,
+    0
+   ],
+   "center": [
+    0,
+    0
+   ],
+   "rotation": 0,
+   "wrap": [
+    1001,
+    1001
+   ],
+   "format": 1023,
+   "internalFormat": null,
+   "type": 1009,
+   "colorSpace": "srgb",
+   "minFilter": 1008,
+   "magFilter": 1006,
+   "anisotropy": 1,
+   "flipY": true,
+   "generateMipmaps": true,
+   "premultiplyAlpha": false,
+   "unpackAlignment": 4
+  },
+  {
+   "uuid": "BF26348E-A78A-42B5-977D-1D1115406B16",
+   "name": "calca-coldblood-mascara.png",
+   "image": "8220015F-EB46-4530-8C74-EBC49DAC6AEB",
+   "mapping": 300,
+   "channel": 0,
+   "repeat": [
+    1,
+    1
+   ],
+   "offset": [
+    0,
+    0
+   ],
+   "center": [
+    0,
+    0
+   ],
+   "rotation": 0,
+   "wrap": [
+    1001,
+    1001
+   ],
+   "format": 1023,
+   "internalFormat": null,
+   "type": 1009,
+   "colorSpace": "srgb",
+   "minFilter": 1008,
+   "magFilter": 1006,
+   "anisotropy": 1,
+   "flipY": true,
+   "generateMipmaps": true,
+   "premultiplyAlpha": false,
+   "unpackAlignment": 4
+  },
+  {
+   "uuid": "CB6F9C71-CDB3-4EA9-B62C-DAC328EC756A",
+   "name": "calca-thornbury.png",
+   "image": "D9492E8B-BC95-47E0-91E6-1F2853A90FF2",
+   "mapping": 300,
+   "channel": 0,
+   "repeat": [
+    1,
+    1
+   ],
+   "offset": [
+    0,
+    0
+   ],
+   "center": [
+    0,
+    0
+   ],
+   "rotation": 0,
+   "wrap": [
+    1001,
+    1001
+   ],
+   "format": 1023,
+   "internalFormat": null,
+   "type": 1009,
+   "colorSpace": "srgb",
+   "minFilter": 1008,
+   "magFilter": 1006,
+   "anisotropy": 1,
+   "flipY": true,
+   "generateMipmaps": true,
+   "premultiplyAlpha": false,
+   "unpackAlignment": 4
+  },
+  {
+   "uuid": "366EB268-EE41-4ED5-A0E1-8BC7DF30E191",
+   "name": "calca-thornbury-mascara.png",
+   "image": "14BA17E0-2FB9-48BA-9D82-91AFABEC05E8",
+   "mapping": 300,
+   "channel": 0,
+   "repeat": [
+    1,
+    1
+   ],
+   "offset": [
+    0,
+    0
+   ],
+   "center": [
+    0,
+    0
+   ],
+   "rotation": 0,
+   "wrap": [
+    1001,
+    1001
+   ],
+   "format": 1023,
+   "internalFormat": null,
+   "type": 1009,
+   "colorSpace": "srgb",
+   "minFilter": 1008,
+   "magFilter": 1006,
+   "anisotropy": 1,
+   "flipY": true,
+   "generateMipmaps": true,
+   "premultiplyAlpha": false,
+   "unpackAlignment": 4
+  },
+  {
+   "uuid": "50292DD5-9E62-42FF-BE67-D015D46EA933",
+   "name": "calca-pez.png",
+   "image": "40EB3EC3-41C7-4EFC-84D1-FD49B78D669B",
+   "mapping": 300,
+   "channel": 0,
+   "repeat": [
+    1,
+    1
+   ],
+   "offset": [
+    0,
+    0
+   ],
+   "center": [
+    0,
+    0
+   ],
+   "rotation": 0,
+   "wrap": [
+    1001,
+    1001
+   ],
+   "format": 1023,
+   "internalFormat": null,
+   "type": 1009,
+   "colorSpace": "srgb",
+   "minFilter": 1008,
+   "magFilter": 1006,
+   "anisotropy": 1,
+   "flipY": true,
+   "generateMipmaps": true,
+   "premultiplyAlpha": false,
+   "unpackAlignment": 4
+  },
+  {
+   "uuid": "00055A83-F303-4856-B262-2B5B90219847",
+   "name": "calca-pez-mascara.png",
+   "image": "959B075D-22C4-40E5-8626-B829AE3EAD78",
+   "mapping": 300,
+   "channel": 0,
+   "repeat": [
+    1,
+    1
+   ],
+   "offset": [
+    0,
+    0
+   ],
+   "center": [
+    0,
+    0
+   ],
+   "rotation": 0,
+   "wrap": [
+    1001,
+    1001
+   ],
+   "format": 1023,
+   "internalFormat": null,
+   "type": 1009,
+   "colorSpace": "srgb",
+   "minFilter": 1008,
+   "magFilter": 1006,
+   "anisotropy": 1,
+   "flipY": true,
+   "generateMipmaps": true,
+   "premultiplyAlpha": false,
+   "unpackAlignment": 4
+  },
+  {
+   "uuid": "80245366-CD1A-4F70-ADE9-EBC19514795C",
+   "name": "calca-thema.png",
+   "image": "12530A74-11AD-48AD-A8E7-3C333F1D648E",
+   "mapping": 300,
+   "channel": 0,
+   "repeat": [
+    1,
+    1
+   ],
+   "offset": [
+    0,
+    0
+   ],
+   "center": [
+    0,
+    0
+   ],
+   "rotation": 0,
+   "wrap": [
+    1001,
+    1001
+   ],
+   "format": 1023,
+   "internalFormat": null,
+   "type": 1009,
+   "colorSpace": "srgb",
+   "minFilter": 1008,
+   "magFilter": 1006,
+   "anisotropy": 1,
+   "flipY": true,
+   "generateMipmaps": true,
+   "premultiplyAlpha": false,
+   "unpackAlignment": 4
+  },
+  {
+   "uuid": "FAEF2D59-FBDC-4A86-BB25-3DA2219012FE",
+   "name": "calca-thema-mascara.png",
+   "image": "81909150-96AC-49DE-A3E9-0199D0C48A65",
+   "mapping": 300,
+   "channel": 0,
+   "repeat": [
+    1,
+    1
+   ],
+   "offset": [
+    0,
+    0
+   ],
+   "center": [
+    0,
+    0
+   ],
+   "rotation": 0,
+   "wrap": [
+    1001,
+    1001
+   ],
+   "format": 1023,
+   "internalFormat": null,
+   "type": 1009,
+   "colorSpace": "srgb",
+   "minFilter": 1008,
+   "magFilter": 1006,
+   "anisotropy": 1,
+   "flipY": true,
+   "generateMipmaps": true,
+   "premultiplyAlpha": false,
+   "unpackAlignment": 4
+  },
+  {
+   "uuid": "D0F442AC-2AE3-40DC-979B-EDEA34B0F10A",
+   "name": "remache.png",
+   "image": "1E3A03BE-D135-4D6D-9C82-8ECB5861281B",
+   "mapping": 300,
+   "channel": 0,
+   "repeat": [
+    1,
+    1
+   ],
+   "offset": [
+    0,
+    0
+   ],
+   "center": [
+    0,
+    0
+   ],
+   "rotation": 0,
+   "wrap": [
+    1001,
+    1001
+   ],
+   "format": 1023,
+   "internalFormat": null,
+   "type": 1009,
+   "colorSpace": "srgb",
+   "minFilter": 1008,
+   "magFilter": 1006,
+   "anisotropy": 1,
+   "flipY": true,
+   "generateMipmaps": true,
+   "premultiplyAlpha": false,
+   "unpackAlignment": 4
+  },
+  {
+   "uuid": "BC12E4F4-7947-4C47-8106-145B4621632D",
+   "name": "tornillo.png",
+   "image": "972AB8C1-CD24-4F8C-ADFF-471B4B04FDCF",
+   "mapping": 300,
+   "channel": 0,
+   "repeat": [
+    1,
+    1
+   ],
+   "offset": [
+    0,
+    0
+   ],
+   "center": [
+    0,
+    0
+   ],
+   "rotation": 0,
+   "wrap": [
+    1001,
+    1001
+   ],
+   "format": 1023,
+   "internalFormat": null,
+   "type": 1009,
+   "colorSpace": "srgb",
+   "minFilter": 1008,
+   "magFilter": 1006,
+   "anisotropy": 1,
+   "flipY": true,
+   "generateMipmaps": true,
+   "premultiplyAlpha": false,
+   "unpackAlignment": 4
+  },
+  {
+   "uuid": "E60743D6-3B45-4AD5-B6B2-EAC3F2ECE740",
+   "name": "titulo.png",
+   "image": "55FDDD54-0FE0-43D5-B613-5A1F651A0E1C",
+   "mapping": 300,
+   "channel": 0,
+   "repeat": [
+    1,
+    1
+   ],
+   "offset": [
+    0,
+    0
+   ],
+   "center": [
+    0,
+    0
+   ],
+   "rotation": 0,
+   "wrap": [
+    1001,
+    1001
+   ],
+   "format": 1023,
+   "internalFormat": null,
+   "type": 1009,
+   "colorSpace": "srgb",
+   "minFilter": 1008,
+   "magFilter": 1006,
+   "anisotropy": 1,
+   "flipY": true,
+   "generateMipmaps": true,
+   "premultiplyAlpha": false,
+   "unpackAlignment": 4
+  }
+ ],
+ "images": [
+  {
+   "uuid": "3D09CCFF-B88E-4FF0-841C-8BB21FBA9663",
+   "url": "marcador.jpg"
+  },
+  {
+   "uuid": "05BBBCC5-DFE4-4A41-B2DF-E5309EBB3C03",
+   "url": "assets/fondo-inicio.jpg"
+  },
+  {
+   "uuid": "E6A96135-7895-4D95-ACB6-798FAAEE2468",
+   "url": "assets/cielo-brutalista.jpg"
+  },
+  {
+   "uuid": "4706B315-AEB1-4042-8524-38066D0FFD8C",
+   "url": "assets/vacio.png"
+  },
+  {
+   "uuid": "520AD65B-9C8A-403B-99D2-E2F58C864BFA",
+   "url": "assets/cinta1.png"
+  },
+  {
+   "uuid": "D19E2AC5-01F1-4678-B9E8-A6458092FBB9",
+   "url": "assets/cinta2.png"
+  },
+  {
+   "uuid": "E2E356DE-8773-4EDB-8E77-E570F4F94751",
+   "url": "assets/obreros.png"
+  },
+  {
+   "uuid": "D090B13C-25E7-4F6B-87F3-45FEB83D44BF",
+   "url": "assets/papel.jpg"
+  },
+  {
+   "uuid": "C953ECCA-8BF4-4A4D-B1B6-2859D8325F14",
+   "url": "assets/obreros-mascara.png"
+  },
+  {
+   "uuid": "00E5EFE7-2383-4D23-902B-1554717329EB",
+   "url": "assets/cable.png"
+  },
+  {
+   "uuid": "A217D38F-C42C-47F8-BD46-5D87F0B910CB",
+   "url": "assets/calca-lookup.png"
+  },
+  {
+   "uuid": "309BA068-EF04-45F7-A484-BAB88F40DF4B",
+   "url": "assets/calca-lookup-mascara.png"
+  },
+  {
+   "uuid": "F9922028-C31C-4015-9FFA-B562B4CA875B",
+   "url": "assets/calca-mileshigh.png"
+  },
+  {
+   "uuid": "ECFC8E5A-0D0F-4846-BED3-34DC4374397C",
+   "url": "assets/calca-mileshigh-mascara.png"
+  },
+  {
+   "uuid": "71FFC6B1-3EFE-4631-83F5-6F07DC5EA647",
+   "url": "assets/calca-iny.png"
+  },
+  {
+   "uuid": "484752C8-F65E-4EFE-AE65-013593D8C223",
+   "url": "assets/calca-iny-mascara.png"
+  },
+  {
+   "uuid": "FCD9773A-BAC7-498D-B141-5E6532497D1A",
+   "url": "assets/calca-coldblood.png"
+  },
+  {
+   "uuid": "8220015F-EB46-4530-8C74-EBC49DAC6AEB",
+   "url": "assets/calca-coldblood-mascara.png"
+  },
+  {
+   "uuid": "D9492E8B-BC95-47E0-91E6-1F2853A90FF2",
+   "url": "assets/calca-thornbury.png"
+  },
+  {
+   "uuid": "14BA17E0-2FB9-48BA-9D82-91AFABEC05E8",
+   "url": "assets/calca-thornbury-mascara.png"
+  },
+  {
+   "uuid": "40EB3EC3-41C7-4EFC-84D1-FD49B78D669B",
+   "url": "assets/calca-pez.png"
+  },
+  {
+   "uuid": "959B075D-22C4-40E5-8626-B829AE3EAD78",
+   "url": "assets/calca-pez-mascara.png"
+  },
+  {
+   "uuid": "12530A74-11AD-48AD-A8E7-3C333F1D648E",
+   "url": "assets/calca-thema.png"
+  },
+  {
+   "uuid": "81909150-96AC-49DE-A3E9-0199D0C48A65",
+   "url": "assets/calca-thema-mascara.png"
+  },
+  {
+   "uuid": "1E3A03BE-D135-4D6D-9C82-8ECB5861281B",
+   "url": "assets/remache.png"
+  },
+  {
+   "uuid": "972AB8C1-CD24-4F8C-ADFF-471B4B04FDCF",
+   "url": "assets/tornillo.png"
+  },
+  {
+   "uuid": "55FDDD54-0FE0-43D5-B613-5A1F651A0E1C",
+   "url": "assets/titulo.png"
+  }
+ ],
+ "object": {
+  "uuid": "BE044662-78A8-49E3-9205-F5D577A44D60",
+  "type": "Group",
+  "name": "Almuerzo brutalista",
+  "layers": 1,
+  "matrix": [
+   1.0,
+   0.0,
+   0,
+   0,
+   -0.0,
+   1.0,
+   0,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  "up": [
+   0,
+   1,
+   0
+  ],
+  "userData": {
+   "ambiente": "sonidos/musica.mp3",
+   "volAmbiente": 0.8,
+   "ciudad": "sonidos/ciudad-nyc.mp3",
+   "volCiudad": 0.45
+  },
+  "children": [
+   {
+    "uuid": "A7D80D8B-4446-459C-8975-9D698EB8B605",
+    "type": "Mesh",
+    "name": "Tarjeta",
+    "layers": 1,
+    "renderOrder": 0,
+    "matrix": [
+     1.0,
+     0.0,
+     0,
+     0,
+     -0.0,
+     1.0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     1
+    ],
+    "up": [
+     0,
+     1,
+     0
+    ],
+    "geometry": "28E82F92-D218-444D-84DB-9099FE470255",
+    "material": "11F51636-DDB0-4B32-879A-52095DD6A179",
+    "userData": {
+     "fijo": true
+    }
+   },
+   {
+    "uuid": "84CFDEBC-0489-4A56-9249-79B7E3952F50",
+    "type": "Mesh",
+    "name": "Video de fondo",
+    "layers": 1,
+    "renderOrder": 1,
+    "matrix": [
+     1.0,
+     0.0,
+     0,
+     0,
+     -0.0,
+     1.0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     -0.12152777777777778,
+     0.002,
+     1
+    ],
+    "up": [
+     0,
+     1,
+     0
+    ],
+    "geometry": "1A758789-16D6-427C-BC2D-F66959A2E369",
+    "material": "80C7B9D8-531F-4C7E-85DA-50747D1A72A5",
+    "userData": {
+     "fijo": true,
+     "video": "assets/fondo.mp4",
+     "videoLoop": false,
+     "videoConSonido": false
+    }
+   },
+   {
+    "uuid": "3A63B44E-60E9-449E-8EE8-86853BD9FF0C",
+    "type": "Mesh",
+    "name": "Cielo brutalista",
+    "layers": 1,
+    "renderOrder": 2,
+    "matrix": [
+     1.0,
+     0.0,
+     0,
+     0,
+     -0.0,
+     1.0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0.2812847222222222,
+     0.002,
+     1
+    ],
+    "up": [
+     0,
+     1,
+     0
+    ],
+    "geometry": "63D8B42B-6EF2-4634-B9B0-206C69593BD5",
+    "material": "484AF339-5268-48DE-AB0E-2A2D27932FDF",
+    "userData": {
+     "fijo": true,
+     "sigueVideo": 1.5
+    }
+   },
+   {
+    "uuid": "E553251B-23D7-4913-A35B-8B30F59F48A4",
+    "type": "Mesh",
+    "name": "Nubes atras",
+    "layers": 1,
+    "renderOrder": 80,
+    "matrix": [
+     1.0,
+     0.0,
+     0,
+     0,
+     -0.0,
+     1.0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0.05,
+     0.08,
+     1
+    ],
+    "up": [
+     0,
+     1,
+     0
+    ],
+    "geometry": "70787D40-8E4F-4B9C-9D5D-B58628AC4FC4",
+    "material": "FD771B70-13B9-4393-8781-C335C89EAEBE",
+    "userData": {
+     "video": "assets/niebla.mp4",
+     "mezcla": "aditiva",
+     "retraso": 0.6,
+     "opacidadMax": 0.8
+    }
+   },
+   {
+    "uuid": "C59AF41C-63D9-465E-A02B-F4C61D03ED31",
+    "type": "Mesh",
+    "name": "Nubes delante",
+    "layers": 1,
+    "renderOrder": 345,
+    "matrix": [
+     -1.0,
+     1.2246467991473532e-16,
+     0,
+     0,
+     -1.2246467991473532e-16,
+     -1.0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0.08,
+     -0.05,
+     0.36,
+     1
+    ],
+    "up": [
+     0,
+     1,
+     0
+    ],
+    "geometry": "1C0CA610-233B-42A6-9A08-FDCF9E39F56F",
+    "material": "CE1A366D-595F-4A76-BF4E-28399A8ABC7D",
+    "userData": {
+     "video": "assets/niebla.mp4",
+     "mezcla": "aditiva",
+     "trasVideo": true,
+     "retraso": 2.2,
+     "opacidadMax": 0.42
+    }
+   },
+   {
+    "uuid": "9CB5C7BE-D403-40BB-8D7D-FA78AE2D77B1",
+    "type": "Mesh",
+    "name": "Chispas (video pantalla verde)",
+    "layers": 1,
+    "renderOrder": 220,
+    "matrix": [
+     1.0,
+     0.0,
+     0,
+     0,
+     -0.0,
+     1.0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0.25,
+     0,
+     0.22,
+     1
+    ],
+    "up": [
+     0,
+     1,
+     0
+    ],
+    "geometry": "E436A522-33AC-4780-AD46-47F1F95D77A8",
+    "material": "36CA3953-29B7-41B0-8CFA-6C07BB680826",
+    "userData": {
+     "activa": false,
+     "video": "assets/chispas.mp4",
+     "mezcla": "verde",
+     "trasVideo": true,
+     "retraso": 2
+    }
+   },
+   {
+    "uuid": "FBF423B7-DF51-490F-8B58-8A2399CB74AB",
+    "type": "Mesh",
+    "name": "Obreros y viga (calcomania)",
+    "layers": 1,
+    "renderOrder": 180,
+    "matrix": [
+     0.85,
+     0.0,
+     0,
+     0,
+     -0.0,
+     0.85,
+     0,
+     0,
+     0,
+     0,
+     0.85,
+     0,
+     0.0216,
+     -0.002,
+     0.18,
+     1
+    ],
+    "up": [
+     0,
+     1,
+     0
+    ],
+    "geometry": "B8D72FA6-13FB-4540-984C-5134147AA6B4",
+    "material": "92FB4323-3707-436A-878C-27F8977A255C",
+    "userData": {
+     "retraso": 0,
+     "sonido": "sonidos/golpe.wav",
+     "trasVideo": true,
+     "despegue": {
+      "esquina": [
+       0.5,
+       -0.4
+      ],
+      "hacia": [
+       -0.5,
+       0.4
+      ],
+      "radio": 0.05,
+      "max": 0.42,
+      "inicio": 0.3,
+      "pop": 1.4,
+      "fin": 2.1
+     }
+    },
+    "children": [
+     {
+      "uuid": "B54537C7-91A2-425E-86BF-58C42DF41FA1",
+      "type": "Mesh",
+      "name": "Reverso de papel",
+      "layers": 1,
+      "renderOrder": 180,
+      "matrix": [
+       1.0,
+       0.0,
+       0,
+       0,
+       -0.0,
+       1.0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       0,
+       1
+      ],
+      "up": [
+       0,
+       1,
+       0
+      ],
+      "geometry": "B8D72FA6-13FB-4540-984C-5134147AA6B4",
+      "material": "3D669042-49D9-4C9D-AB8C-6EABC4BCCB0A",
+      "userData": {
+       "reverso": true
+      }
+     },
+     {
+      "uuid": "B199839D-84F1-4EE7-BBF9-631BEBAF0AD1",
+      "type": "Mesh",
+      "name": "Cinta 1",
+      "layers": 1,
+      "renderOrder": 181,
+      "matrix": [
+       0.8191520442889918,
+       0.573576436351046,
+       0,
+       0,
+       -0.573576436351046,
+       0.8191520442889918,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       -0.43,
+       0.17,
+       0.003,
+       1
+      ],
+      "up": [
+       0,
+       1,
+       0
+      ],
+      "geometry": "069A79BD-2376-4055-AEF4-706F017C5111",
+      "material": "00E6EC8C-3255-4845-8EBF-0E4D5A308580",
+      "userData": {
+       "opacidad": 1
+      }
+     },
+     {
+      "uuid": "AEB3BA3B-55B8-4E0E-9E20-DA33D0D67E91",
+      "type": "Mesh",
+      "name": "Cinta 2",
+      "layers": 1,
+      "renderOrder": 181,
+      "matrix": [
+       0.9902680687415704,
+       -0.13917310096006544,
+       0,
+       0,
+       0.13917310096006544,
+       0.9902680687415704,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0.0,
+       0.19,
+       0.003,
+       1
+      ],
+      "up": [
+       0,
+       1,
+       0
+      ],
+      "geometry": "F8D31DCE-5C35-42B5-A6D8-84BB88622BF0",
+      "material": "C8D273A6-C91D-46DF-9AF9-CCE2CE21E149",
+      "userData": {
+       "opacidad": 1
+      }
+     },
+     {
+      "uuid": "45A674A9-1EC4-4AB9-8F84-E3DB8587932C",
+      "type": "Mesh",
+      "name": "Cinta 3",
+      "layers": 1,
+      "renderOrder": 181,
+      "matrix": [
+       0.46947156278589086,
+       -0.8829475928589269,
+       0,
+       0,
+       0.8829475928589269,
+       0.46947156278589086,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       -0.47,
+       -0.01,
+       0.003,
+       1
+      ],
+      "up": [
+       0,
+       1,
+       0
+      ],
+      "geometry": "B038B167-46A6-467B-95B9-F0C4CDBE10E6",
+      "material": "44010847-F9E4-4A9C-847A-9E278CBC2F77",
+      "userData": {
+       "opacidad": 1
+      }
+     }
+    ]
+   },
+   {
+    "uuid": "8D87ECA8-447F-4A3F-9E0B-773C6C7DF488",
+    "type": "Mesh",
+    "name": "Cable",
+    "layers": 1,
+    "renderOrder": 260,
+    "matrix": [
+     0.85,
+     0.0,
+     0,
+     0,
+     -0.0,
+     0.85,
+     0,
+     0,
+     0,
+     0,
+     0.85,
+     0,
+     0.0216,
+     -0.002,
+     0.26,
+     1
+    ],
+    "up": [
+     0,
+     1,
+     0
+    ],
+    "geometry": "12293EBF-B68B-4810-B970-2A168FE17F79",
+    "material": "BAF53FEA-0D04-4FA3-A105-D6DE6CB7444A",
+    "userData": {
+     "retraso": 2.0,
+     "sonido": "sonidos/golpe.wav",
+     "trasVideo": true
+    }
+   },
+   {
+    "uuid": "B056FDD4-EC3D-4BCE-B21F-1CBD39537835",
+    "type": "Mesh",
+    "name": "Calca lookup",
+    "layers": 1,
+    "renderOrder": 220,
+    "matrix": [
+     0.9945218953682733,
+     -0.10452846326765347,
+     0,
+     0,
+     0.10452846326765347,
+     0.9945218953682733,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     -0.33,
+     0.29,
+     0.22,
+     1
+    ],
+    "up": [
+     0,
+     1,
+     0
+    ],
+    "geometry": "DC28EA86-0DBE-4E34-B0D2-68ADF61132CD",
+    "material": "FB5CCBDA-9DD0-4A29-900D-6DB753911180",
+    "userData": {
+     "retraso": 2.3,
+     "sonido": "sonidos/golpe.wav",
+     "trasVideo": true,
+     "flotar": {
+      "giro": 35,
+      "vel": 0.9,
+      "fase": 0.0
+     }
+    },
+    "children": [
+     {
+      "uuid": "225500B0-B1D0-45C6-8955-DDC272E68A35",
+      "type": "Mesh",
+      "name": "Reverso de papel",
+      "layers": 1,
+      "renderOrder": 220,
+      "matrix": [
+       1.0,
+       0.0,
+       0,
+       0,
+       -0.0,
+       1.0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       0,
+       1
+      ],
+      "up": [
+       0,
+       1,
+       0
+      ],
+      "geometry": "DC28EA86-0DBE-4E34-B0D2-68ADF61132CD",
+      "material": "BF96E8C7-5B91-4F9E-A8D5-6C2CF9B1D278",
+      "userData": {
+       "reverso": true
+      }
+     }
+    ]
+   },
+   {
+    "uuid": "75023D26-170B-410B-9378-00DD345891A5",
+    "type": "Mesh",
+    "name": "Calca mileshigh",
+    "layers": 1,
+    "renderOrder": 300,
+    "matrix": [
+     0.9961946980917455,
+     0.08715574274765817,
+     0,
+     0,
+     -0.08715574274765817,
+     0.9961946980917455,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0.26,
+     0.28,
+     0.3,
+     1
+    ],
+    "up": [
+     0,
+     1,
+     0
+    ],
+    "geometry": "D54B67C6-80E5-4FD7-90B2-B4BD97CE82B5",
+    "material": "90BDD53C-5699-47E0-A708-FE5ADD41F87A",
+    "userData": {
+     "retraso": 2.55,
+     "sonido": "sonidos/golpe.wav",
+     "trasVideo": true,
+     "flotar": {
+      "giro": 28,
+      "vel": 0.7,
+      "fase": 1.3
+     }
+    },
+    "children": [
+     {
+      "uuid": "6C496B34-A370-4284-879D-6DA6885D68BB",
+      "type": "Mesh",
+      "name": "Reverso de papel",
+      "layers": 1,
+      "renderOrder": 300,
+      "matrix": [
+       1.0,
+       0.0,
+       0,
+       0,
+       -0.0,
+       1.0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       0,
+       1
+      ],
+      "up": [
+       0,
+       1,
+       0
+      ],
+      "geometry": "D54B67C6-80E5-4FD7-90B2-B4BD97CE82B5",
+      "material": "00A9A1A8-104F-4693-9DDD-DE82B40F91EE",
+      "userData": {
+       "reverso": true
+      }
+     }
+    ]
+   },
+   {
+    "uuid": "CDCEB799-DC2F-4586-98C9-B7D1D9F237C9",
+    "type": "Mesh",
+    "name": "Calca iny",
+    "layers": 1,
+    "renderOrder": 160,
+    "matrix": [
+     0.9902680687415704,
+     0.13917310096006544,
+     0,
+     0,
+     -0.13917310096006544,
+     0.9902680687415704,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0.34,
+     -0.25,
+     0.16,
+     1
+    ],
+    "up": [
+     0,
+     1,
+     0
+    ],
+    "geometry": "1F27AFE7-0D6A-40D1-8A4F-31D4C7560058",
+    "material": "2CFD28C4-16CB-4623-B35E-F2CD0D4EB388",
+    "userData": {
+     "retraso": 2.8,
+     "sonido": "sonidos/golpe.wav",
+     "trasVideo": true,
+     "flotar": {
+      "giro": 40,
+      "vel": 1.0,
+      "fase": 2.6
+     }
+    },
+    "children": [
+     {
+      "uuid": "25967EE0-59DE-48AE-9685-6454BF6FA98B",
+      "type": "Mesh",
+      "name": "Reverso de papel",
+      "layers": 1,
+      "renderOrder": 160,
+      "matrix": [
+       1.0,
+       0.0,
+       0,
+       0,
+       -0.0,
+       1.0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       0,
+       1
+      ],
+      "up": [
+       0,
+       1,
+       0
+      ],
+      "geometry": "1F27AFE7-0D6A-40D1-8A4F-31D4C7560058",
+      "material": "A318C868-5187-4EC5-9DD7-180AD6215595",
+      "userData": {
+       "reverso": true
+      }
+     }
+    ]
+   },
+   {
+    "uuid": "A249CC18-5C7D-4C2B-B70D-5692463FE195",
+    "type": "Mesh",
+    "name": "Calca coldblood",
+    "layers": 1,
+    "renderOrder": 260,
+    "matrix": [
+     0.984807753012208,
+     -0.17364817766693033,
+     0,
+     0,
+     0.17364817766693033,
+     0.984807753012208,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     -0.4,
+     -0.12,
+     0.26,
+     1
+    ],
+    "up": [
+     0,
+     1,
+     0
+    ],
+    "geometry": "C774C9D5-1A8D-4876-862B-BD2E5FD1F0F0",
+    "material": "DB53376D-9DA2-42F2-B4EA-BF319C60B753",
+    "userData": {
+     "retraso": 3.05,
+     "sonido": "sonidos/golpe.wav",
+     "trasVideo": true,
+     "flotar": {
+      "giro": 32,
+      "vel": 0.8,
+      "fase": 3.9000000000000004
+     }
+    },
+    "children": [
+     {
+      "uuid": "43202296-4425-4E20-990E-4224690CBE13",
+      "type": "Mesh",
+      "name": "Reverso de papel",
+      "layers": 1,
+      "renderOrder": 260,
+      "matrix": [
+       1.0,
+       0.0,
+       0,
+       0,
+       -0.0,
+       1.0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       0,
+       1
+      ],
+      "up": [
+       0,
+       1,
+       0
+      ],
+      "geometry": "C774C9D5-1A8D-4876-862B-BD2E5FD1F0F0",
+      "material": "950E5595-F38A-48C1-AE2C-2B34F51AA479",
+      "userData": {
+       "reverso": true
+      }
+     }
+    ]
+   },
+   {
+    "uuid": "B2C8263D-5E0F-4076-AC48-FB473A025AA6",
+    "type": "Mesh",
+    "name": "Calca thornbury",
+    "layers": 1,
+    "renderOrder": 380,
+    "matrix": [
+     1.0,
+     0.0,
+     0,
+     0,
+     -0.0,
+     1.0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0.17,
+     -0.21,
+     0.38,
+     1
+    ],
+    "up": [
+     0,
+     1,
+     0
+    ],
+    "geometry": "DB4309E4-3474-424C-8668-BF4B512578F2",
+    "material": "2B34FCA4-057E-4DAF-8539-C2144DBB41EE",
+    "userData": {
+     "retraso": 3.3,
+     "sonido": "sonidos/golpe.wav",
+     "trasVideo": true,
+     "flotar": {
+      "giro": 50,
+      "vel": 0.6,
+      "fase": 5.2
+     }
+    },
+    "children": [
+     {
+      "uuid": "36238677-FD82-4A5C-BBB8-CEA615A0A792",
+      "type": "Mesh",
+      "name": "Reverso de papel",
+      "layers": 1,
+      "renderOrder": 380,
+      "matrix": [
+       1.0,
+       0.0,
+       0,
+       0,
+       -0.0,
+       1.0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       0,
+       1
+      ],
+      "up": [
+       0,
+       1,
+       0
+      ],
+      "geometry": "DB4309E4-3474-424C-8668-BF4B512578F2",
+      "material": "978B8E07-3BB8-49A1-A243-09913F1D65CC",
+      "userData": {
+       "reverso": true
+      }
+     }
+    ]
+   },
+   {
+    "uuid": "D357D734-DDD7-4F65-8D91-614B43D42D5A",
+    "type": "Mesh",
+    "name": "Calca pez",
+    "layers": 1,
+    "renderOrder": 120,
+    "matrix": [
+     1.0,
+     0.0,
+     0,
+     0,
+     -0.0,
+     1.0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     -0.02,
+     0.31,
+     0.12,
+     1
+    ],
+    "up": [
+     0,
+     1,
+     0
+    ],
+    "geometry": "789CBBDE-FE36-4365-9662-216251124BBC",
+    "material": "697DBEC3-7473-478F-892F-70AC614E6192",
+    "userData": {
+     "retraso": 3.55,
+     "sonido": "sonidos/golpe.wav",
+     "trasVideo": true,
+     "flotar": {
+      "giro": 45,
+      "vel": 1.1,
+      "fase": 6.5
+     }
+    },
+    "children": [
+     {
+      "uuid": "FB19B79B-445E-4B4C-B179-BCC1B5A077D9",
+      "type": "Mesh",
+      "name": "Reverso de papel",
+      "layers": 1,
+      "renderOrder": 120,
+      "matrix": [
+       1.0,
+       0.0,
+       0,
+       0,
+       -0.0,
+       1.0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       0,
+       1
+      ],
+      "up": [
+       0,
+       1,
+       0
+      ],
+      "geometry": "789CBBDE-FE36-4365-9662-216251124BBC",
+      "material": "2156F98D-3740-4EB5-AA3C-CE880AC6C6B8",
+      "userData": {
+       "reverso": true
+      }
+     }
+    ]
+   },
+   {
+    "uuid": "801B5E0F-0E73-4BEC-B119-395E63A097AE",
+    "type": "Mesh",
+    "name": "Calca thema",
+    "layers": 1,
+    "renderOrder": 420,
+    "matrix": [
+     1.0,
+     0.0,
+     0,
+     0,
+     -0.0,
+     1.0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0.02,
+     -0.15,
+     0.42,
+     1
+    ],
+    "up": [
+     0,
+     1,
+     0
+    ],
+    "geometry": "88E1E97F-C89C-4E1D-95BF-5AEBAE1641EE",
+    "material": "159C171D-77BE-4CB4-B51C-07C6B575E923",
+    "userData": {
+     "retraso": 3.8,
+     "sonido": "sonidos/golpe.wav",
+     "trasVideo": true,
+     "flotar": {
+      "giro": 60,
+      "vel": 0.75,
+      "fase": 7.800000000000001
+     }
+    },
+    "children": [
+     {
+      "uuid": "E0D5637F-A56D-454A-B5AE-E9DD9A869CEF",
+      "type": "Mesh",
+      "name": "Reverso de papel",
+      "layers": 1,
+      "renderOrder": 420,
+      "matrix": [
+       1.0,
+       0.0,
+       0,
+       0,
+       -0.0,
+       1.0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       0,
+       1
+      ],
+      "up": [
+       0,
+       1,
+       0
+      ],
+      "geometry": "88E1E97F-C89C-4E1D-95BF-5AEBAE1641EE",
+      "material": "6EBBF934-213E-4D9C-A9EE-CA50D0160176",
+      "userData": {
+       "reverso": true
+      }
+     }
+    ]
+   },
+   {
+    "uuid": "AAC0C7A0-D0A2-435E-936D-667D77F2CCBD",
+    "type": "Mesh",
+    "name": "Remache 1",
+    "layers": 1,
+    "renderOrder": 320,
+    "matrix": [
+     1.0,
+     0.0,
+     0,
+     0,
+     -0.0,
+     1.0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     -0.24,
+     -0.08,
+     0.32,
+     1
+    ],
+    "up": [
+     0,
+     1,
+     0
+    ],
+    "geometry": "2BC7336B-B411-491F-B815-F35EC6681722",
+    "material": "4FADF755-809D-46B5-A6D1-FAEAB52B24C2",
+    "userData": {
+     "retraso": 2.7,
+     "trasVideo": true,
+     "flotar": {
+      "giro": 0,
+      "vel": 0.5,
+      "fase": 0,
+      "gira": -35
+     }
+    }
+   },
+   {
+    "uuid": "3576C417-7E28-4582-8F54-8A78239259A6",
+    "type": "Mesh",
+    "name": "Tornillo 2",
+    "layers": 1,
+    "renderOrder": 400,
+    "matrix": [
+     0.766044443118978,
+     0.6427876096865393,
+     0,
+     0,
+     -0.6427876096865393,
+     0.766044443118978,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     -0.1,
+     -0.2,
+     0.4,
+     1
+    ],
+    "up": [
+     0,
+     1,
+     0
+    ],
+    "geometry": "586777D4-40D8-450E-83B0-3856DBB4B434",
+    "material": "B49C2B98-E961-4348-8C0D-7583BFCFD5F4",
+    "userData": {
+     "retraso": 2.9,
+     "trasVideo": true,
+     "flotar": {
+      "giro": 0,
+      "vel": 0.5,
+      "fase": 1,
+      "gira": 25
+     }
+    }
+   },
+   {
+    "uuid": "D911744A-B6A4-4421-A20F-067260F96BB7",
+    "type": "Mesh",
+    "name": "Remache 3",
+    "layers": 1,
+    "renderOrder": 300,
+    "matrix": [
+     0.17364817766693041,
+     0.984807753012208,
+     0,
+     0,
+     -0.984807753012208,
+     0.17364817766693041,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0.26,
+     -0.06,
+     0.3,
+     1
+    ],
+    "up": [
+     0,
+     1,
+     0
+    ],
+    "geometry": "34750798-EA74-45E0-8902-62918DB1157C",
+    "material": "C9145383-C185-4E9A-8113-EFFC3BFD778A",
+    "userData": {
+     "retraso": 3.1,
+     "trasVideo": true,
+     "flotar": {
+      "giro": 0,
+      "vel": 0.5,
+      "fase": 2,
+      "gira": -35
+     }
+    }
+   },
+   {
+    "uuid": "F6D979F0-E4CD-406A-9496-EADC4A1CB565",
+    "type": "Mesh",
+    "name": "Tornillo 4",
+    "layers": 1,
+    "renderOrder": 360,
+    "matrix": [
+     -0.4999999999999998,
+     0.8660254037844387,
+     0,
+     0,
+     -0.8660254037844387,
+     -0.4999999999999998,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     -0.36,
+     0.1,
+     0.36,
+     1
+    ],
+    "up": [
+     0,
+     1,
+     0
+    ],
+    "geometry": "A7712271-5AA7-4CC6-868A-9FA44EB7E660",
+    "material": "091B9F16-985F-44FA-A060-21C57AEA9092",
+    "userData": {
+     "retraso": 3.25,
+     "trasVideo": true,
+     "flotar": {
+      "giro": 0,
+      "vel": 0.5,
+      "fase": 3,
+      "gira": 25
+     }
+    }
+   },
+   {
+    "uuid": "00612E02-4866-425A-8E0B-C2DB5523F32D",
+    "type": "Mesh",
+    "name": "Remache 5",
+    "layers": 1,
+    "renderOrder": 440,
+    "matrix": [
+     -0.9396926207859083,
+     0.3420201433256689,
+     0,
+     0,
+     -0.3420201433256689,
+     -0.9396926207859083,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0.3,
+     0.12,
+     0.44,
+     1
+    ],
+    "up": [
+     0,
+     1,
+     0
+    ],
+    "geometry": "D6711682-3BA0-4C5C-B719-CA0AB1740C87",
+    "material": "28B3393D-D256-452B-A129-46654B7C2FEA",
+    "userData": {
+     "retraso": 3.4,
+     "trasVideo": true,
+     "flotar": {
+      "giro": 0,
+      "vel": 0.5,
+      "fase": 4,
+      "gira": -35
+     }
+    }
+   },
+   {
+    "uuid": "1F9DBA73-082D-4DA3-9AB8-2259A4DE2B9C",
+    "type": "Mesh",
+    "name": "Tornillo 6",
+    "layers": 1,
+    "renderOrder": 280,
+    "matrix": [
+     -0.9396926207859084,
+     -0.34202014332566866,
+     0,
+     0,
+     0.34202014332566866,
+     -0.9396926207859084,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     -0.05,
+     -0.3,
+     0.28,
+     1
+    ],
+    "up": [
+     0,
+     1,
+     0
+    ],
+    "geometry": "57F3A2CD-CC9E-4516-9081-8D9083754547",
+    "material": "CD899D46-CB5B-4380-8274-6C68B9B15E11",
+    "userData": {
+     "retraso": 3.6,
+     "trasVideo": true,
+     "flotar": {
+      "giro": 0,
+      "vel": 0.5,
+      "fase": 5,
+      "gira": 25
+     }
+    }
+   },
+   {
+    "uuid": "D56304C0-3FD9-414B-B445-3015DE67A988",
+    "type": "Mesh",
+    "name": "Remache 7",
+    "layers": 1,
+    "renderOrder": 450,
+    "matrix": [
+     -0.5000000000000004,
+     -0.8660254037844384,
+     0,
+     0,
+     0.8660254037844384,
+     -0.5000000000000004,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0.42,
+     -0.12,
+     0.45,
+     1
+    ],
+    "up": [
+     0,
+     1,
+     0
+    ],
+    "geometry": "F5FB4D24-9F61-4C8E-9AC2-AE621375A321",
+    "material": "1B6DCAD8-6DFB-473E-BE12-936D756C281F",
+    "userData": {
+     "retraso": 3.7,
+     "trasVideo": true,
+     "flotar": {
+      "giro": 0,
+      "vel": 0.5,
+      "fase": 6,
+      "gira": -35
+     }
+    }
+   },
+   {
+    "uuid": "18BCE287-4084-4CB4-A862-25C707DE06C1",
+    "type": "Mesh",
+    "name": "Titulo",
+    "layers": 1,
+    "renderOrder": 340,
+    "matrix": [
+     0.9975640502598242,
+     -0.0697564737441253,
+     0,
+     0,
+     0.0697564737441253,
+     0.9975640502598242,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     -0.17,
+     -0.27,
+     0.34,
+     1
+    ],
+    "up": [
+     0,
+     1,
+     0
+    ],
+    "geometry": "09012377-028F-4A34-847D-3CD08EEB50BE",
+    "material": "3514A07A-E4ED-4E70-9294-6F953AD85355",
+    "userData": {
+     "retraso": 4.1,
+     "sonido": "sonidos/golpe.wav",
+     "trasVideo": true
+    }
+   }
+  ]
+ }
+}
